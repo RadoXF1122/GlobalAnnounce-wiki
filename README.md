@@ -26,6 +26,9 @@ Example:
 
 announcement.use
 
+Server operators can use this command by default.
+To give this permission to a LuckPerms rank, use: lp group <rank> permission set announcement.use true
+
 ## Installation
 
 1. Go to the GlobalAnnounce+ page on Modrinth.
